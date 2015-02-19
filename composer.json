@@ -1,0 +1,8 @@
+{
+    "name": "oauth-php/oauth-php",
+    "version": "1.0.0",
+    "dist": {
+        "url": "https://github.com/jphire/oauth-php/archive/master.zip",
+        "type": "zip"
+    }
+}
